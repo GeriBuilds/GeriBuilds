@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🍳 Learning to Code with The Odin Project
 
-<!--
-**GeriBuilds/GeriBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Geri! I'm currently working through The Odin Project.
 
-Here are some ideas to get you started:
+## 🚀 Current Progress
+- Learning HTML basics
+- Structuring web pages
+- Creating recipe pages with links & images
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔜 What's Next?
+- Styling with CSS
+- Enhancing with JavaScript
+- Building more projects to showcase on GitHub!
+
+## 💡 My Goals
+- Gain solid web development fundamentals
+- Build interactive websites
+- Become comfortable with Git & GitHub
+
